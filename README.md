@@ -38,7 +38,8 @@ In an Android phone, the status bar contains the clock, battery icon, and other 
    - Title and Subtitle
    - Action button
    - Action overflow menu
-   - Action bar is a dedicated navigation or control element present at top of each screen of the application.
+   
+ - Action bar is a dedicated navigation or control element present at top of each screen of the application.
 
 ### toolbar
 - The Toolbar is a kind of ViewGroup that can be placed anywhere,introduced during the release of android lollipop.
